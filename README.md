@@ -13,4 +13,7 @@ python test id_of_servers(1-5)
 python client
 ```
 ## Reference
-[In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+[1] Diego Ongaro, John Ousterhout  “In Search of an Understandable Consensus Algorithm (Extended Version) ” 
+[2] Raft Consensus Algorithm (https://raft.github.io/)
+[3] Raft (thesecretlivesofdata.com)
+[4] https://raft.github.io/raft.pdf
